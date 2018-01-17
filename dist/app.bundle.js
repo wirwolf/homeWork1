@@ -1,0 +1,2 @@
+webpackJsonp([0],[function(e,n){throw new Error("Module parse failed: Unexpected token (70:13)\nYou may need an appropriate loader to handle this file type.\n|     if (animal instanceof InterfaceWildAnimal) {\r\n|     }\r\n|     else if () {\r\n|     }\r\n| }\r")}],[0]);
+//# sourceMappingURL=app.bundle.map
